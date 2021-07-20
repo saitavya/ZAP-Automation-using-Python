@@ -14,7 +14,8 @@ Install OWASP ZAP
 ```python
 Run ZAP.bat file
 import zapv2
-Enter the URL as endpoint and select the option
+Enter the URL as endpoint and select the option.
+Remember to keep the APIkey in the code as well as ZAP same.
 ```
 
 ## Contributing
